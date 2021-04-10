@@ -358,7 +358,7 @@ div.footer h6 {
     position: absolute;
     right: 0;
     left: 0;
-    height: 40vh;
+    height: 45vh;
     top: 6.9vh;
     display: flex;
     flex-direction: column;
@@ -454,7 +454,7 @@ div.footer h6 {
   div.background {
     padding: 10px 20px;
     width: 550px;
-    height: 260px;
+    height: 270px;
   }
 
   div.background h4 {
