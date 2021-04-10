@@ -358,7 +358,7 @@ div.footer h6 {
     position: absolute;
     right: 0;
     left: 0;
-    height: 45vh;
+    height: 42vh;
     top: 6.9vh;
     display: flex;
     flex-direction: column;
@@ -377,6 +377,12 @@ div.footer h6 {
 
   .nav-links li a {
     color: #304353;
+  }
+
+  .nav-links li a:hover {
+    color: #304353;
+    background: #fff;
+    padding: 0.5rem;
   }
 
   .burger {
