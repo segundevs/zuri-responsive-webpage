@@ -371,7 +371,7 @@ div.footer h6 {
 
   .nav-links li {
     opacity: 0;
-    margin-top: 35px;
+    margin-top: 30px;
     text-align: center;
   }
 
@@ -454,7 +454,7 @@ div.footer h6 {
   div.background {
     padding: 10px 20px;
     width: 550px;
-    height: 250px;
+    height: 260px;
   }
 
   div.background h4 {
@@ -463,7 +463,7 @@ div.footer h6 {
 
   div.background p {
     padding-left: 0.8rem;
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 
   div.hero-background-pos {
